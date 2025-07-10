@@ -1,0 +1,37 @@
+{
+  "id": "c54ea937-ca42-4532-913b-74e53387e06e",
+  "name": "Apollo",
+  "version": "1.2.4.0",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {      "id": "e34a4b5d-f1db-4a0b-8473-fc0b1e1130ce",
+    "name": "MASQ",
+    "version": "1.0.8.77",
+    "publisher": "Megatek"}
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50200
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
