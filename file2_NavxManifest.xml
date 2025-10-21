@@ -1,0 +1,22 @@
+<Package xmlns="http://schemas.microsoft.com/navx/2015/manifest">
+  <App Id="c54ea937-ca42-4532-913b-74e53387e06e" Name="Apollo" Publisher="Default publisher" Brief="" Description="" Version="1.2.3.0" CompatibilityId="0.0.0.0" PrivacyStatement="" EULA="" Help="" HelpBaseUrl="" Url="" Logo="" Platform="1.0.0.0" Application="20.0.0.0" Runtime="9.0" Target="Cloud" ShowMyCode="False" />
+  <IdRanges>
+    <IdRange MinObjectId="1" MaxObjectId="2147483647" />
+  </IdRanges>
+  <Dependencies>
+    <Dependency Id="e34a4b5d-f1db-4a0b-8473-fc0b1e1130ce" Name="MASQ" Publisher="Megatek" MinVersion="1.0.7.96" CompatibilityId="0.0.0.0" />
+  </Dependencies>
+  <InternalsVisibleTo />
+  <ScreenShots />
+  <SupportedLocales />
+  <Features>
+    <Feature>NOIMPLICITWITH</Feature>
+  </Features>
+  <PreprocessorSymbols />
+  <SuppressWarnings />
+  <ResourceExposurePolicy AllowDebugging="false" AllowDownloadingSource="false" IncludeSourceInSymbolFile="false" />
+  <KeyVaultUrls />
+  <Source />
+  <Build By="AL Language Extension,13.0.1027618" Timestamp="2024-07-01T06:00:42.3442822Z" CompilerVersion="13.0.15.44608" />
+  <AlternateIds />
+</Package>
